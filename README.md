@@ -5,6 +5,8 @@ Contributors: Arvind Balaji Narayan (Pennkey: narvind), Gopik Anand (Pennkey: ga
 
 # How to Run the Colab Notebook:
 
+Explanation of each folder and file:
+
 A) Upload your kaggle.json file into your Colab Notebook. How to do this: Go to Kaggle, move to your profile, click on Account and click on Create New API Token.
 
 B) The CIS 545 Model Accuracy Tabulations.xlsx is a Excel Sheet documenting the accuracy, f1 score results and graphs comparing the performance metrics for 5 years vs 10 years data for all the different models.  
