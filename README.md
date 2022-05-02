@@ -3,7 +3,7 @@ CIS 545 (Big Data Analytics) Final Project
 
 Contributors: Arvind Balaji Narayan (Pennkey: narvind), Gopik Anand (Pennkey: ganand) and Bharathrushab Manthripragada (Pennkey: mbharath)
 
-# How to Run the Colab Notebook:
+# How to Run the Colab Notebooks:
 
 Explanation of each folder and file:
 
